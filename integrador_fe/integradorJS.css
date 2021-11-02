@@ -1,0 +1,21 @@
+#content {
+	margin-top: 8%;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.subtitle {
+	text-align: center;
+}
+
+#total {
+	padding: 2.2%;
+	background-color: #c6e6ec;
+	color: #063970;
+}
+
+.btn {
+	width: 100%;
+	background-color: #96c93e;
+	color: white;
+}

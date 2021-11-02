@@ -1,0 +1,37 @@
+.navbar {
+		position: absolute;
+		width: 100%;
+		top: 0px;
+		background-color: #34393f;
+		z-index: 10;
+	}
+
+	.container-fluid {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+
+	.navbar-brand img {
+		width: 8vw;
+		height: 5vw;
+	}
+
+	#comp-tickets {
+		color: #96c93e;
+	}
+
+.d-flex {
+	background: linear-gradient(to left, #1f5271, #1d3744);
+	position: static;
+	bottom: 0px;
+	height: 75px;
+	font-size: 80%;
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+	.d-flex div a {
+		color: white;
+		text-decoration: none;
+	}
